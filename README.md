@@ -5,17 +5,17 @@ I’m an innovative software developer with 3 years of experience managing all a
 I've a proficiency for generating creative ideas, out-of-the-box solutions to problems and new discoveries. Nothing gives me more pleasure than getting to work on a solution and sharing my experience with the world.
 
 <p align="center">
-  <a href="https://github.com/silviolleite?tab=repositories">
+  <a href="https://github.com/oregs?tab=repositories">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=silviolleite&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oregs&layout=compact"
     />
   </a>
-  <a href="https://github.com/silviolleite?tab=repositories">
+  <a href="https://github.com/oregs?tab=repositories">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=silviolleite&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=oregs&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
